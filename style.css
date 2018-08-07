@@ -1,0 +1,103 @@
+h1 {
+	color: red;
+	background-color: black;
+	margin: 20px
+	padding: 10px;
+}
+
+h2 {
+	color: blue;
+	text-decoration: underline;
+}
+
+h3 {
+	color: yellow;
+}
+
+header {
+	color: darkblue;
+	font-size: 32px
+}
+
+body {
+	font-family: "Comic Sans MS";
+	background-image: url("Images/pharmacy nuts.jpg");
+}
+
+article {
+	max-width: 870px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.highlight {
+		background-color: lightgreen;
+}
+
+.red {
+	color: red;
+}
+
+.crimson {
+	color: crimson;
+}
+
+.indigo {
+	color: indigo;
+}
+
+.green {
+	color: green;
+}
+
+img {
+	border-radius: 50%
+}
+
+p {
+	text-align: center;
+}
+
+table {
+	border: 1px dashed #FAFAFA;
+}
+
+.my-box {
+	display: inline-block;
+	border: 3px solid cornflowerblue;
+	padding: 10px;
+	margin: 25px;
+	background-color: indigo;
+}
+
+.my-box h3 {
+	margin: 0;
+}
+
+.absolute {
+	position: absolute;
+	top: 500px;
+	left: 700px;
+	width: 100px;
+	height: 200px;
+}
+
+.fixed {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 100px;
+}
+
+.li {
+    float: right;
+    display: inline-block;
+    color: red;
+    text-align: center;
+    padding: 14px;
+    background-color: black;
+ }
+
+ a:visited {
+  color: red;
+}
